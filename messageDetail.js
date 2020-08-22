@@ -1,5 +1,5 @@
 const mailDetails = { 
     subject: 'Test mail', 
-    text: 'Node.js testing mail for GeeksforGeeks'
+    text: 'Node.js testing mail by manish'
 };
 module.exports = mailDetails;
