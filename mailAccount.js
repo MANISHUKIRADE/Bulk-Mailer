@@ -5,8 +5,8 @@ const accountDetails = {
     service: 'yahoo',
     secure: false,
     auth: {
-        user: 'manishukirade@yahoo.com',
-        pass: 'dcdlfmxiywspzooc'
+        user: 'youremailid',
+        pass: 'yourpasword'
     },
     debug: false,
     logger: true
